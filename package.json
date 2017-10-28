@@ -61,6 +61,9 @@
   "devDependencies": {
     "async": "^1.2.1",
     "chai": "^3.0.0",
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
     "istanbul": "^0.3.15",
     "mocha": "^2.2.5",
     "supertest": "^1.0.1"
